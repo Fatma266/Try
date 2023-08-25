@@ -1,0 +1,19 @@
+body{
+    background-color: #faf2e4;
+    text-align: center;
+    
+}
+
+h3{
+    text-align: left;
+    margin-left:220px ;
+    color: brown;
+}
+p{
+    text-align: left;
+    margin-left:220px ;
+}
+pre{
+    text-align: left;
+    margin-left:190px ;
+}
